@@ -1,0 +1,2 @@
+# mycalc
+Mini-calculadora
