@@ -8,7 +8,7 @@ class CalculadoraCientifica:
 
     def mostrar_menu(self) -> None:
         print('--- Mini Calculadora ---')
-        print("Menu de Opções:")
+        print("## Menu de Opções: ##")
         print('1 - Operações básicas')
         print('2 - Operacoes trigonométricas')
         print('S - SAIR')
