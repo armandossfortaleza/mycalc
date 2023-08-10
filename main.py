@@ -5,7 +5,7 @@ class CalculadoraCientifica:
         self.operacoes_basicas = aritmetica.OperacoesBasicas()
 
     def mostrar_menu(self) -> None:
-        print('Mini Calculadora')
+        print('--- Mini Calculadora ---')
         print("Menu de Opções:")
         print('1 - Operações básicas')
         print('S - SAIR')
