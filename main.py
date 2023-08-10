@@ -1,13 +1,16 @@
 import aritmetica
+import trigonometria
 
 class CalculadoraCientifica:
     def __init__(self) -> None:
         self.operacoes_basicas = aritmetica.OperacoesBasicas()
+        self.operacoes_trigonometricas = trigonometria.OperacoesTrigonometricas()
 
     def mostrar_menu(self) -> None:
         print('Mini Calculadora')
         print("Menu de Opções:")
         print('1 - Operações básicas')
+        print('2 - Operacoes trigonométricas')
         print('S - SAIR')
 
     def executar(self) -> None: 
