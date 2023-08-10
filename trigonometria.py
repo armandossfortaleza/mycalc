@@ -1,4 +1,5 @@
 import math
 
 class OperacoesTrigonometricas:
-  pass
+  def executar(self) -> None: 
+    pass

@@ -1,2 +1,3 @@
 class OperacoesBasicas:
-  pass
+  def executar(self) -> None:
+    pass
