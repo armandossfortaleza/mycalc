@@ -7,7 +7,7 @@ class CalculadoraCientifica:
         self.operacoes_trigonometricas = trigonometria.OperacoesTrigonometricas()
 
     def mostrar_menu(self) -> None:
-        print('Mini Calculadora')
+        print('--- Mini Calculadora ---')
         print("Menu de Opções:")
         print('1 - Operações básicas')
         print('2 - Operacoes trigonométricas')
